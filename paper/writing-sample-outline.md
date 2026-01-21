@@ -1,8 +1,8 @@
-#Title (working)
+# Title (working)
 
-##One-line claim: [1 sentence]
+## One-line claim: [1 sentence]
 
-##Abstract (3–5 sentences)
+Abstract (3–5 sentences)
 - Problem:
 - Approach (formalization):
 - Main result (Proposition/Theorem):
